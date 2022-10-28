@@ -1,0 +1,14 @@
+{
+    "ip": "MSunRiseM.aternos.me",
+    "port": 30643,
+    "name": "MSunRiseM",
+    "auto-night-skip": "false",
+    "join-msg": "\u0412\u0435\u0447\u043d\u044b\u0439 \u0430\u0439\u043f\u0438 : MSunRiseM.aternos.me",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "\u0412\u0435\u0447\u043d\u044b\u0439 \u0430\u0439\u043f\u0438 : MSunRiseM.aternos.me",
+    "custom-message-2": "\u0412\u0435\u0447\u043d\u044b\u0439 \u0430\u0439\u043f\u0438 : MSunRiseM.aternos.me",
+    "login-enabled": "true",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
